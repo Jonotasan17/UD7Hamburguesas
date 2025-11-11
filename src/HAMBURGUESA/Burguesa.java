@@ -13,7 +13,7 @@ public class Burguesa {
 		double[] precio = {8.50, 11, 12.50, 14};
 		int[] stock= {12, 8, 23, 15};
 		int opcion = 0;
-		
+		//Hello Jon
 		do {
 			System.out.println("[----Bienvenido al menu de JavaBurger----]");
 			System.out.println("1.PEDIDO");
